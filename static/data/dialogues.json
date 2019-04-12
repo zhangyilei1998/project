@@ -1,0 +1,32 @@
+[
+        {
+          "name":"a",
+          "conversation":[
+            {
+              "speaker":"a",
+              "content":"小伙子"
+            },
+            {
+              "speaker":"b",
+              "content":"The core idea"
+            },
+            {
+              "speaker": "a",
+              "content": "说的不错"
+            }
+          ]
+        },
+        {
+          "name":"c",
+          "conversation":[
+            {
+              "speaker":"c",
+              "content":"小伙子"
+            },
+            {
+              "speaker":"d",
+              "content":"The core idea"
+            }
+          ]
+        }
+      ]
